@@ -1,0 +1,1 @@
+This project introduces binary trees and their common properties, operations, and traversal methods.
